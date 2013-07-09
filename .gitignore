@@ -1,3 +1,6 @@
 *~
 node_modules
 .c9revisions
+
+# Ignore Mac Desktop Services Store files
+.DS_Store
